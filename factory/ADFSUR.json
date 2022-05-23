@@ -1,0 +1,9 @@
+{
+	"name": "ADFSUR",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4714f9e5-0789-4092-af0b-a15c64177338",
+		"tenantId": "9c0e74bf-63ad-4d83-802c-30dfa888859a"
+	}
+}
