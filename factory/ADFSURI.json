@@ -1,0 +1,9 @@
+{
+	"name": "ADFSURI",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cb868bc-ad7d-49f2-b1bf-1713e8e6e079",
+		"tenantId": "9c0e74bf-63ad-4d83-802c-30dfa888859a"
+	}
+}
